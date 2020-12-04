@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest9.1_B.cpp
+D:\Student\lab9.1_B\lab9.1_B\lab9_1_B.cpp(43,12): warning C4101: midMARK: неиспользованная локальная переменная
+D:\Student\lab9.1_B\lab9.1_B\lab9_1_B.cpp(146,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Student\lab9.1_B\UnitTest9.1_B\UnitTest9.1_B.cpp(18,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     Создается библиотека D:\Student\lab9.1_B\Debug\UnitTest9.1_B.lib и объект D:\Student\lab9.1_B\Debug\UnitTest9.1_B.exp
+  UnitTest9.1_B.vcxproj -> D:\Student\lab9.1_B\Debug\UnitTest9.1_B.dll
